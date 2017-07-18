@@ -1,2 +1,0 @@
-# jquery-slider
-# OOP--JS
