@@ -1,0 +1,21 @@
+.card-placeholder {
+	background: aquamarine;
+}
+
+.column-container {
+	display: flex;
+	flex-flow: row wrap;
+	max-height: 100%;
+}
+
+.column {
+	display: flex;
+	flex: 1 1 200px;
+	background-color: greenyellow;
+	height: 200px;
+	border: 1px solid;
+}
+button {
+	width: 100px;
+	height: 40px;
+}
